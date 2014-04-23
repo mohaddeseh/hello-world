@@ -2,3 +2,6 @@
 
 
 We successfully get it
+
+
+another prompt from BBB
